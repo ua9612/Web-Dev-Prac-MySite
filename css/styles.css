@@ -156,6 +156,8 @@ p {
 hr {
   border-top: 8px dotted #eaf6f6;
   border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
   margin: 100px auto;
   height: 0;
   width: 5%;
